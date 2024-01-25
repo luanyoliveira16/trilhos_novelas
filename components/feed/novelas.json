@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Roda de Fogo",
+    "overview": "História de Renato Villar, um homem que se transforma quando se vê diante da morte. Ele é um empresário bem-sucedido e inescrupuloso, capaz de qualquer coisa por poder. Ele mantém um casamento de aparências com Carolina, uma mulher fria e ambiciosa.",
+    "year": "1986",
+    "thumbnail": "https://i.pinimg.com/originals/6b/d8/4d/6bd84d7b5c85ee602cfbde75d0ea0df7.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bambolê",
+    "overview": "O viúvo Álvaro Galhardo é um homem que se recusa a aceitar os valores de uma sociedade que ele julga ser hipócrita e moralista. Romântico e idealista, ele tem uma relação de amizade e um ótimo diálogo com as três filhas, Ana, Yolanda e Cristina.",
+    "year": "1987",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/pt/0/06/Bambol%C3%AA_%28telenovela%29.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fuzuê",
+    "overview": "Luna é uma mulher simples e carismática, que luta para desvendar o paradeiro da mãe. Preciosa é uma poderosa empresária que procura uma fortuna escondida. As duas mulheres vão descobrir que têm mais em comum do que imaginam.",
+    "year": "2023",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/Fuzu%C3%AA.jpg/640px-Fuzu%C3%AA.jpg"
+  },
+  {
+    "id": 4,
+    "name": "O Bem-Amado",
+    "overview": "O prefeito Odorico Paraguaçu é um político demagogo e corrupto que ilude o povo simplório da pequena Sucupira, no litoral baiano, com seus discursos inflamados e verborrágicos.",
+    "year": "1973",
+    "thumbnail": "https://i0.wp.com/s04.video.glbimg.com/x240/2198847.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Torre de Babel",
+    "overview": "José Clementino mata sua esposa ao flagrá-la tendo relações com dois homens durante uma festa da construtora de César Toledo. O empresário vê a cena e, no julgamento, depõe contra ele. Ao sair da prisão, José busca vingar-se do empresário.",
+    "year": "1998",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSUc2DXr3-giMDcjPTrhnrWtp8brLXWBRNIdTjD87uDU6WWCmn11uvSsciRr7zttcc9I&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "name": "O Clone",
+    "overview": "O prefeito Odorico Paraguaçu é um político demagogo e corrupto que ilude o povo simplório da pequena Sucupira, no litoral baiano, com seus discursos inflamados e verborrágicos.",
+    "year": "2001",
+    "thumbnail": "https://imagem.natelinha.uol.com.br/880x495/quiz-pergunta-10-o-clone-reproducao_2205.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Pecado Capital",
+    "overview": "José Carlos Moreno, o Carlão, é um motorista de táxi, noivo da operária Lucinha, que se vê diante de um dilema ético ao deparar com o dinheiro de um assalto, que fora esquecido em seu carro.",
+    "year": "1975",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/Novela_Pecado_Capital_1975.png/245px-Novela_Pecado_Capital_1975.png"
+  },
+  {
+    "id": 8,
+    "name": "Os Ossos do Barão",
+    "overview": "Egisto Ghirotto foi criado como empregado na fazenda de propriedade do Barão de Jaraguá, e acabou fazendo fortuna com a Revolução Industrial. Antenor, o filho do barão, vive das lembranças do passado e ainda acredita possuir a fazenda do pai.",
+    "year": "1973",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/pt/6/69/Ossosdobarao73_logo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dancin' Days",
+    "overview": "Após onze anos de prisão, Júlia Matos ganha liberdade condicional e tenta se reaproximar da filha Marisa, tendo como principal obstáculo a irmã Yolanda Pratini, que criou a menina cercada de luxo e mimos.",
+    "year": "1978",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJUOYIY7tcPnCvmujPmzruXvctTmCHI5C6eCEuDdrC2A4mOnsMWGgZyb9A_Rq3Xr2CpA&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "name": "Vai na Fé",
+    "overview": "Sol é vendedora de marmitas e também canta no coral da igreja desde a infância, mas esconde um segredo dos pais: nos anos 2000, era um fenômeno dos bailes funks. Enfrentando dificuldades financeiras com a família, ela acaba voltando aos palcos.",
+    "year": "2023",
+    "thumbnail": "https://almanaquegeek.com/wp-content/uploads/2023/01/Vai-na-Fe.png"
+  },
+  {
+    "id": 11,
+    "name": "O Salvador da Pátria",
+    "overview": "A trajetória de Sassá Mutema, um boia-fria que chegou ao poder e mobilizou o Brasil no ano das primeiras eleições diretas depois da ditadura, misturando ficção e realidade.",
+    "year": "1989",
+    "thumbnail": "https://br.web.img3.acsta.net/pictures/14/08/01/16/58/030875.jpg"
+  },
+  {
+    "id": 13,
+    "name": "A Favorita",
+    "overview": "Após cumprir pena pelo assassinato do marido de sua ex-parceira Donatela, Flora deixa a prisão disposta a provar a sua inocência. Ao mesmo tempo, quer se reaproximar da filha Lara, criada pela rival e centro da disputa entre as duas antigas amigas.",
+    "year": "2008",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESUCBKp-T4K0hD8jYaz9RiNTotYkCUI2XQe2PBM1mL9JI_zKlsx7mIzIHtR6gPQ0KDoQ&usqp=CAU"
+  },
+  {
+    "id": 14,
+    "name": "A Próxima Vítima",
+    "overview": "Marcelo (José Wilker) é um homem aproveitador e mau-caráter, casado por interesse com uma mulher bem mais velha, a rica Francesca Ferreto (Tereza Rachel). No entanto, ele é amante de Ana (Susana Vieira) há vinte anos, com quem tem três filhos. Ela é uma mulher forte, batalhadora e dona de uma cantina italiana.",
+    "year": "1995",
+    "thumbnail": "https://s2.glbimg.com/hKxTxC-5uoV0LFbs_LPDzb-w1cQkBqePgKHG5aUFmzVIoz-HdGixxa_8qOZvMp3w/e.glbimg.com/og/ed/f/original/2013/09/09/proximavitima.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Avenida Brasil",
+    "overview": "Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.",
+    "year": "2012",
+    "thumbnail": "https://www.tribunapr.com.br/wp-content/uploads/sites/36/2020/03/31163601/avenida_brasil-970x550.png"
+  },
+  {
+    "id": 16,
+    "name": "América",
+    "overview": "Movida pelo desejo de realizar seu grande sonho, uma brasileira atravessa a fronteira do México e chega ilegalmente aos EUA. A série conta a história de amor de Sol, que teve uma infância miserável, e Tião, que quer ser um campeão de rodeios.",
+    "year": "2005",
+    "thumbnail": "https://s3-sa-east-1.amazonaws.com/catalogodasartes/obra_13645827.jpg"
+  }
+
+]

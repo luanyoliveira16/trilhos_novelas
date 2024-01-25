@@ -1,0 +1,18 @@
+# Copyright (c) 2020 4rievilo, Inc. All rights reserved.
+
+#Channel Details
+#title=Refazendo Projeto TMDB
+#major_version=1
+#minor_version=0
+#build_version=1
+rsg_version=1.2
+
+#Channel Assets
+mm_icon_focus_hd=pkg:/images/Memoria_Globo.jpg
+
+#Splash Screen
+splash_screen_hd=pkg:/images/Memoria_Globo.jpg
+
+
+#Resolution
+ui_resolutions=hd

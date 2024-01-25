@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<component name="MainScene" extends="Scene">
+    <script type="text/brightscript" uri="MainScene.brs" />
+    <script type="text/brightscript" uri="UILogic/DinamicScreen.brs" />
+    <script type="text/brightscript" uri="UILogic/GridLogic.brs" />
+    <script type="text/brightscript" uri="UILogic/ContentLogic.brs" />
+    <script type="text/brightscript" uri="UILogic/VideoScreen.brs" /> 
+
+    <children>
+    
+       <Label
+          id = "exampleLabel"
+          width = "480"
+          height = "60"
+          horizAlign = "center"
+          vertAlign = "center" />
+ 
+      <Timer
+          id = "exampleTimer"
+          repeat="true"
+          duration = "2" 
+       />
+
+      <Label
+          id="loading"
+          text="olá"
+          width="230"
+          height="100"
+          translation="[60, 180]"
+          horizAlign="center"
+          vertAlign="center"
+          font="font:MediumBoldSystemFont"
+          visible="false"
+       />
+
+
+       
+    </children>
+</component>

@@ -1,0 +1,20 @@
+{
+  "name": "filmes.brs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "zip -r build.zip . -i 'components/*' -i 'source/*' -i 'images/*' -i 'manifest' && mv build.zip build.zip",
+    "sideload": "curl -f -sS --user rokudev:webmedia --anyauth -F 'mysubmit=Install' -F 'archive=@build.zip' -F 'passwd=' http://192.168.1.85/plugin_install",
+    "wakeup": "curl -sS -d '' http://192.168.1.85:8060/keypress/Home",
+    "dev": "npm run build && npm run wakeup && npm run sideload",
+    "watch": "telnet 192.168.1.85 8085"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
